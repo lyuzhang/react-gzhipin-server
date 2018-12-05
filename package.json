@@ -12,5 +12,8 @@
     "blueimp-md5": "^2.10.0",
     "express": "^4.16.4",
     "mongoose": "^5.3.14"
+  },
+  "devDependencies": {
+    "cookie-parser": "^1.4.3"
   }
 }
